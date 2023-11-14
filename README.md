@@ -1,4 +1,4 @@
-# data-modelling-ingestion-and-analysis-with-python-postgresql
+# data-modeling-ingestion-and-analysis-with-python-postgresql
 
 This work features travel datasets comprising of flight bookings, hotel bookings and the users. Includes data modelling, ingestion and analysis tasks on the datasets using Python and SQL, PostgreSQL as the database.
 
